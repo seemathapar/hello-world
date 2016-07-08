@@ -1,2 +1,2 @@
 # hello-world
-My first gitHub handson
+My first gitHub hands-on. Creating a new branch.
